@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DocFlow.Host": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:12237;http://localhost:12238"
+    }
+  }
+}
